@@ -1,6 +1,7 @@
 CREATE DATABASE example;
 USE example;
 CREATE TABLE users(
-	id INT,
-    name VARCHAR(255)
+	id SIRIAL PRIMARY KEY:,
+    name VARCHAR(255),
+	
 );
